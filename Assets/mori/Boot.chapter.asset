@@ -53,7 +53,7 @@ MonoBehaviour:
       - -90
       - 
       - 
-      - .4
+      - .25
       - 
       - Alchemist_Man.png
       isEmpty: 0
@@ -69,7 +69,7 @@ MonoBehaviour:
       - -90
       - 
       - 
-      - .4
+      - .25
       - 
       - Archer_Man.png
       isEmpty: 0
@@ -85,7 +85,7 @@ MonoBehaviour:
       - -90
       - 
       - 
-      - .4
+      - .25
       - 
       - Clergyman_Woman.png
       isEmpty: 0
@@ -101,7 +101,7 @@ MonoBehaviour:
       - -90
       - 
       - 
-      - .4
+      - .25
       - 
       - Robber_Man.png
       isEmpty: 0
@@ -117,7 +117,7 @@ MonoBehaviour:
       - -90
       - 
       - 
-      - .4
+      - .25
       - 
       - Necromancer_Man.png
       isEmpty: 0
@@ -133,7 +133,7 @@ MonoBehaviour:
       - -90
       - 
       - 
-      - .4
+      - .25
       - 
       - Clergyman_Man.png
       isEmpty: 0
@@ -149,7 +149,7 @@ MonoBehaviour:
       - -90
       - 
       - 
-      - .4
+      - .25
       - 
       - Sage_Woman.png
       isEmpty: 0
@@ -157,7 +157,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/mori/mori.xls:Character
     type: 1
-    textLength: 323
+    textLength: 330
     headerRow: 0
     sourceAssetInEditor: {fileID: 0}
   - rows:
