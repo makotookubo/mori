@@ -4039,10 +4039,10 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.12499999
-    y: 0
-    width: 0.75
-    height: 1
+    x: 0
+    y: 0.04882814
+    width: 1
+    height: 0.90234375
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -6359,7 +6359,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f928fbcd84d4af4aa44fbbe7f8286ea, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  uiMessageWindowManager: {fileID: 0}
+  uiMessageWindowManager: {fileID: 581645343}
   onReset:
     m_PersistentCalls:
       m_Calls: []
@@ -17517,7 +17517,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 22400004, guid: 06740f6c84ba6b242beda02aa6ff9e9a, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0
+      value: 16
       objectReference: {fileID: 0}
     - target: {fileID: 22400004, guid: 06740f6c84ba6b242beda02aa6ff9e9a, type: 3}
       propertyPath: m_AnchoredPosition.y
@@ -19606,10 +19606,10 @@ Camera:
   m_FocalLength: 50
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0.12499999
-    y: 0
-    width: 0.75
-    height: 1
+    x: 0
+    y: 0.04882814
+    width: 1
+    height: 0.90234375
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
@@ -21772,7 +21772,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a70cf6ee55f3bce4c99471f183b4c571, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1392c06a18bd7ed40b4f745d69a8ccf6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
